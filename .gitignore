@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution & Build folders
+build/
+dist/
+*.exe
+*.zip
+*.tar.gz
+*.rar
+
+# PyInstaller
+RAW_to_PNG_Converter.spec
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+*.tmp
+*.log
